@@ -1,3 +1,10 @@
+# Ignore during development
+dev*.py
+
+# Ignored data (too big for github)
+gincco/data/network_data/
+gincco/data/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
