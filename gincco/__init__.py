@@ -1,0 +1,1 @@
+# ginnco init file
