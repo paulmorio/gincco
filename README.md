@@ -24,3 +24,17 @@ If you have a CUDA enabled GPU, use the below command. Otherwise follow instruct
 ```bash
 pip install torch torchvision
 ```
+## Citation
+The paper is currently under review. If this code or its associated library was useful to you please consider citing the preprint (under an older title)
+
+```
+@misc{gincco,
+      title={Incorporating network based protein complex discovery into automated model construction}, 
+      author={Paul Scherer and Maja Trȩbacz and Nikola Simidjievski and Zohreh Shams and Helena Andres Terre and Pietro Liò and Mateja Jamnik},
+      year={2020},
+      eprint={2010.00387},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.MN}
+}
+```
+
